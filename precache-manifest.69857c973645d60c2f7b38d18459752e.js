@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/whiplash/static/media/bg.3f602e9b.png"
   },
   {
-    "revision": "ddde61b92331c07763657b9f3d01fb4a",
+    "revision": "51c74049bf502b2ecaa442e1a9e411d4",
     "url": "/whiplash/index.html"
   }
 ];
