@@ -1,7 +1,7 @@
 {
-  "main.css": "/whiplash/static/css/main.2effc322.chunk.css",
-  "main.js": "/whiplash/static/js/main.5c376bad.chunk.js",
-  "main.js.map": "/whiplash/static/js/main.5c376bad.chunk.js.map",
+  "main.css": "/whiplash/static/css/main.3692335d.chunk.css",
+  "main.js": "/whiplash/static/js/main.4559bdb8.chunk.js",
+  "main.js.map": "/whiplash/static/js/main.4559bdb8.chunk.js.map",
   "static/js/1.933aecfb.chunk.js": "/whiplash/static/js/1.933aecfb.chunk.js",
   "static/js/1.933aecfb.chunk.js.map": "/whiplash/static/js/1.933aecfb.chunk.js.map",
   "runtime~main.js": "/whiplash/static/js/runtime~main.a320ce8d.js",
@@ -16,8 +16,8 @@
   "static/media/tom.wav": "/whiplash/static/media/tom.7e6f249a.wav",
   "static/media/boom.wav": "/whiplash/static/media/boom.550be808.wav",
   "static/media/index.css": "/whiplash/static/media/bg.3f602e9b.png",
-  "static/css/main.2effc322.chunk.css.map": "/whiplash/static/css/main.2effc322.chunk.css.map",
+  "static/css/main.3692335d.chunk.css.map": "/whiplash/static/css/main.3692335d.chunk.css.map",
   "index.html": "/whiplash/index.html",
-  "precache-manifest.b1cb7f5d8550454e20091bad19d764e5.js": "/whiplash/precache-manifest.b1cb7f5d8550454e20091bad19d764e5.js",
+  "precache-manifest.0abe257a8891dec9350424ae40804e91.js": "/whiplash/precache-manifest.0abe257a8891dec9350424ae40804e91.js",
   "service-worker.js": "/whiplash/service-worker.js"
 }
