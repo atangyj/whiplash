@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/atangyj/whiplash/precache-manifest.a895f2811abed42f48d0dc7a677626b5.js"
+  "/whiplash/precache-manifest.b1cb7f5d8550454e20091bad19d764e5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/atangyj/whiplash/index.html", {
+workbox.routing.registerNavigationRoute("/whiplash/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
