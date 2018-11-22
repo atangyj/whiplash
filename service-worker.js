@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/whiplash/precache-manifest.69857c973645d60c2f7b38d18459752e.js"
+  "/whiplash/precache-manifest.a5eeac55c0d599d25dd368a607a56231.js"
 );
 
 workbox.clientsClaim();

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/whiplash/static/media/tom.572ed39d.wav"
   },
   {
-    "revision": "4559bdb816ec56b0a9f7",
-    "url": "/whiplash/static/css/main.3692335d.chunk.css"
+    "revision": "63a50b3824eef5bd523c",
+    "url": "/whiplash/static/css/main.9575d457.chunk.css"
   },
   {
     "revision": "933aecfb5081958f5946",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/whiplash/static/media/tink.2a6bb6f5.wav"
   },
   {
-    "revision": "4559bdb816ec56b0a9f7",
-    "url": "/whiplash/static/js/main.4559bdb8.chunk.js"
+    "revision": "63a50b3824eef5bd523c",
+    "url": "/whiplash/static/js/main.63a50b38.chunk.js"
   },
   {
     "revision": "1000ec42cae2f14d7e6ba79354cb3bbf",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/whiplash/static/media/bg.3f602e9b.png"
   },
   {
-    "revision": "51c74049bf502b2ecaa442e1a9e411d4",
+    "revision": "e786f0fa94ab37436f63ff5d5015c634",
     "url": "/whiplash/index.html"
   }
 ];
