@@ -115,7 +115,7 @@ function TurnOffVolume(props){
       <div>
         <label className="switch">
           <input type="checkbox" onClick={props.onClick} className="offbtn"/>
-          <span className="slider round"></span>
+          <div className="slider"></div>
         </label>
       </div>
     )
@@ -194,7 +194,7 @@ class Drum extends React.Component {
 
   switchBank(btn){
     this.setState({
-      isBankOne: btn=='1'? true : false
+      isBankOne: btn==='1'? true : false
     });
   }
 
@@ -224,8 +224,8 @@ class Drum extends React.Component {
   }
 
   handleKeyPress(e){
-    if(soundBank.filter(ele=> {return ele.keyCode == e.keyCode}).length==1){
-      const src = soundBank.filter(ele=> {return ele.keyCode == e.keyCode})[0];
+    if(soundBank.filter(ele=> {return ele.keyCode === e.keyCode}).length===1){
+      const src = soundBank.filter(ele=> {return ele.keyCode === e.keyCode})[0];
 
       if(this.state.isBankOne){
         this.setState({source: src.bank_one});
@@ -235,7 +235,7 @@ class Drum extends React.Component {
 
       this.playSound();
       this.setState({display: src.sound});
-      
+
     }
   }
 
